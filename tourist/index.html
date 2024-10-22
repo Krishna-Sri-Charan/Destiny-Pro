@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>South India Tourist Places</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="background-image"></div>
+    <div class="content">
+        <h1>TOURISTERS</h1>
+        <p>Search for your favorite places below:</p>
+        <div class="search-container">
+            <select id="stateSelect" class="search-bar" onchange="populateDistricts()">
+                <option value="">Select State</option>
+                <option value="Telangana">Telangana</option>
+                <option value="Andhra Pradesh">Andhra Pradesh</option>
+                <option value="Karnataka">Karnataka</option>
+                <option value="Kerala">Kerala</option>
+                <option value="Tamil Nadu">Tamil Nadu</option>
+            </select>
+
+            <select id="districtSelect" class="search-bar" disabled>
+                <option value="">Select District</option>
+            </select>
+
+            <button class="search-button" onclick="navigateToLocation()">Search</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
