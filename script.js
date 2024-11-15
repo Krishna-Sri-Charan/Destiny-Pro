@@ -66,7 +66,7 @@ function navigateToLocation() {
     const district = document.getElementById("districtSelect").value;
     if (district) {
         const formattedDistrict = district.toLowerCase().replace(/\s+/g, '_');
-        window.location.href = `${formattedDistrict}.html`; // Adjust path if necessary
+        window.location.href = `district/${formattedDistrict}.html`; // Include the folder path
     } else {
         alert('Please select a district.');
     }
