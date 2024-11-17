@@ -2,8 +2,8 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0;
-    background: linear-gradient(135deg, #97cc7e, #f1ff28);
-    color: #333;
+    background-color: #1a1a1a; /* Dark background for a professional look */
+    color: #e0e0e0; /* Light text color for contrast */
     padding: 20px;
     min-height: 100vh;
     display: flex;
@@ -15,7 +15,7 @@ body {
 /* Header Styling */
 h1 {
     text-align: center;
-    color: #fff;
+    color: #ffffff; /* White color for headings */
     margin-bottom: 30px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
@@ -31,7 +31,7 @@ h1 {
 
 /* Individual Place Card Styling */
 .place-card {
-    background: white;
+    background: #2a2a2a; /* Darker background for cards */
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     margin: 10px;
@@ -61,7 +61,7 @@ h1 {
 /* Place Title Styling */
 .place-title {
     font-size: 1.5rem;
-    color: #3b8fdd;
+    color: #ff9f1a; /* Accent color for titles */
     margin: 10px 0;
     text-align: center;
     font-weight: bold;
@@ -90,9 +90,10 @@ h1 {
     color: #333;
     font-weight: bold;
     text-align: center;
-    background-color: #FFF7B2; /* Softer color */
+    background-color: #383838; /* Softer color for cost-to-stay */
     border-radius: 5px;
     padding: 8px;
+    color: #ffdf80; /* Light accent color */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
