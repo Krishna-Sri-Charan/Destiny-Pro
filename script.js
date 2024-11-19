@@ -9,9 +9,12 @@ const districtMap = {
         "Suryapet", "Vikarabad", "Wanaparthy", "Warangal", "Yadadri Bhuvanagiri"
     ],
     "Andhra Pradesh": [
-        "Anantapur", "Chittoor", "East Godavari", "Guntur", "Krishna", "Kurnool",
-        "Nellore", "Prakasam", "Srikakulam", "Visakhapatnam", "Vizianagaram",
-        "West Godavari", "YSR Kadapa"
+    "Alluri Sitharama Raju", "Anakapalli", "Anantapur", "Bapatla",
+    "Chittoor", "Dr. B. R. Ambedkar Konaseema", "East Godavari", "Eluru",
+    "Guntur", "Kakinada", "Krishna", "Kurnool", "Nandyal", "NTR",
+    "Palnadu", "Parvathipuram Manyam", "Prakasam", "Sri Potti Sriramulu Nellore",
+    "Sri Sathya Sai", "Srikakulam", "Tirupati", "Visakhapatnam", "Vizianagaram",
+    "West Godavari", "YSR Kadapa"
     ],
     "Karnataka": [
         "Bagalkot", "Ballari", "Belagavi", "Bengaluru Rural", "Bengaluru Urban",
