@@ -31,8 +31,8 @@ const districtMap = {
     ],
     "Tamil Nadu": [
         "Ariyalur", "Chengalpattu", "Chennai", "Cuddalore",
-        "Dharmapuri", "Dindigul", "Erode", "Kallakurichi", "Kanchipuram",
-        "Karur", "Krishnagiri", "Madurai", "Mayiladuthurai", "Nagapattinam",
+        "Dharmapuri", "Erode", "Kallakurichi", "Kanchipuram",
+        "Krishnagiri", "Madurai", "Nagapattinam",
         "Namakkal", "Nilgiris", "Pudukkottai", "Ramanathapuram",
         "Ranipet", "Salem", "Sivaganga", "Tenkasi", "Thanjavur", "Theni",
         "Thiruvallur", "Thoothukudi", "Tiruchirappalli",
