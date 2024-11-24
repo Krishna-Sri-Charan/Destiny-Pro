@@ -30,13 +30,13 @@ const districtMap = {
         "Thiruvananthapuram", "Thrissur", "Wayanad"
     ],
     "Tamil Nadu": [
-        "Ariyalur", "Chengalpattu", "Chennai", "Coimbatore", "Cuddalore",
+        "Ariyalur", "Chengalpattu", "Chennai", "Cuddalore",
         "Dharmapuri", "Dindigul", "Erode", "Kallakurichi", "Kanchipuram",
         "Karur", "Krishnagiri", "Madurai", "Mayiladuthurai", "Nagapattinam",
-        "Namakkal", "Nilgiris", "Perambalur", "Pudukkottai", "Ramanathapuram",
+        "Namakkal", "Nilgiris", "Pudukkottai", "Ramanathapuram",
         "Ranipet", "Salem", "Sivaganga", "Tenkasi", "Thanjavur", "Theni",
-        "Thiruvallur", "Thiruvarur", "Thoothukudi", "Tiruchirappalli",
-        "Tirunelveli", "Tirupathur", "Tiruppur", "Tiruvannamalai", "Vellore",
+        "Thiruvallur", "Thoothukudi", "Tiruchirappalli",
+        "Tirunelveli", "Tirupathur", "Tiruppur", "Vellore",
         "Viluppuram", "Virudhunagar"
     ]
 };
