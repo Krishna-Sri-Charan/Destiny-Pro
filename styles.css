@@ -24,9 +24,10 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('https://images.app.goo.gl/idLh3tJ5TpSpQEqg6'); /* Ensure the correct path to the image */
+    background-image: url('../images/background.jpg'); /* Ensure the correct path to the image */
+    /* background-color: #1a1a1a; */
     background-size: cover;
-     /* Adjust opacity as needed */
+    /* opacity: 0.85; */
     z-index: 1;
 }
 
